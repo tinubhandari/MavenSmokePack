@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="21" started-at="2020-02-22T04:32:20Z" finished-at="2020-02-22T04:32:20Z">
+  <suite name="Suite" duration-ms="41734" started-at="2020-02-22T11:31:39Z" finished-at="2020-02-22T11:32:21Z">
     <groups>
     </groups>
-    <test name="testing" duration-ms="21" started-at="2020-02-22T04:32:20Z" finished-at="2020-02-22T04:32:20Z">
+    <test name="testing" duration-ms="41734" started-at="2020-02-22T11:31:39Z" finished-at="2020-02-22T11:32:21Z">
       <class name="testing.NewTest">
-        <test-method status="PASS" signature="f()[pri:0, instance:testing.NewTest@26ba2a48]" name="f" duration-ms="0" started-at="2020-02-22T10:02:20Z" finished-at="2020-02-22T10:02:20Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:testing.NewTest@180bc464]" name="f" duration-ms="1" started-at="2020-02-22T17:02:21Z" finished-at="2020-02-22T17:02:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- testing.NewTest -->
       <class name="testing.LoginTest">
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:testing.LoginTest@38082d64]" name="loginTest" duration-ms="8" started-at="2020-02-22T10:02:20Z" finished-at="2020-02-22T10:02:20Z">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:testing.LoginTest@783e6358]" name="loginTest" duration-ms="41716" started-at="2020-02-22T17:01:39Z" finished-at="2020-02-22T17:02:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
