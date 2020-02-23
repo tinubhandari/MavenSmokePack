@@ -8,7 +8,7 @@ public class LoginTest {
   @Test
   public void loginTest() throws InterruptedException {
 	  
-	  System.out.println("In testng login test class");
+	  System.out.println("In testng login test class updated ");
 	  
 	  System.setProperty("webdriver.chrome.driver", "D:\\Java\\SeleniumBeginner\\"
 				+ "chromedriver_win32\\chromedriver.exe");
